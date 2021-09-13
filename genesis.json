@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2021-09-07T15:00:00Z",
+  "genesis_time": "2021-09-13T15:00:00Z",
   "chain_id": "sommelier-1",
   "initial_height": "44339",
   "consensus_params": {
@@ -6963,6 +6963,198 @@
           ]
         },
         {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm15h8ls6mwt8k709wc8f48ycxa80vcu690j6rnwy",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm15urq2dtp9qce4fyc85m6upwm9xul3049s838j8",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm1p7vn9hajt44fxwn4ecfxjs2r469l0tgmjlqzmp",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm1ejqsr74xw6syh9nmukmqqtnnup4znwjmkgrxuq",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "account_number": "0",
+              "address": "somm1lexs4myxfp7k6n685qp6tw6mddkr2wetmnrxdw",
+              "pub_key": null,
+              "sequence": "0"
+            },
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1656626400",
+            "original_vesting": [
+              {
+                "denom": "usomm",
+                "amount": "1000000"
+              }
+            ]
+          },
+          "start_time": "1625090400",
+          "vesting_periods": [
+            {
+              "length": 31536000,
+              "amount": [
+                {
+                  "denom": "usomm",
+                  "amount": "1000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "@type": "/cosmos.auth.v1beta1.ModuleAccount",
           "base_account": {
             "account_number": "0",
@@ -7211,6 +7403,60 @@
         },
         {
           "address": "somm1cgdlryczzgrk7d4kkeawqg7t6ldz4x843zljnh",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm15h8ls6mwt8k709wc8f48ycxa80vcu690j6rnwy",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm19ts4umurauutumqdcu5n8x73fn9dfwwshhf8a4",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm1p7vn9hajt44fxwn4ecfxjs2r469l0tgmjlqzmp",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm1ejqsr74xw6syh9nmukmqqtnnup4znwjmkgrxuq",
+          "coins": [
+            {
+              "denom": "usomm",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "somm1lexs4myxfp7k6n685qp6tw6mddkr2wetmnrxdw",
           "coins": [
             {
               "denom": "usomm",
