@@ -1,14 +1,15 @@
 # SommelierNetwork
 
-Validators: please add your gentxs to the `gentxs` folder with the following filename: `{validator_name}.json`.
+Sommelier Network will go live on `7 Sept 21 @ 15:00 UTC`.
 
 ```bash
-# copy the genesis file from this repository
-cp genesis.json ~/.sommelier/config/genesis.json
+$ shasum -a 256 genesis.json
+7ffe09bd04aba96ea0a52798215a1f2fb33b42c8d753cb266af553b4f6271f9e  genesis.json
+```
 
-sommelier gentx validator {self-delegation-amount} \
-    $(gorc --config $HOME/gorc/config.toml keys eth show signer) \
-    $(sommelier keys show orchestrator --bech acc -a) \
-    $(gorc sign-delegate-keys signer $(sommelier keys show validator --bech val -a) 0) \
-    --chain-id sommelier-1
+[Peers for Sommelier Mainnet](https://docs.google.com/spreadsheets/d/13LzGA2-0sgXQxdGPknCYDyUsjbBtMoY4VeLKxHNZzW8/edit#gid=0)
+
+### Gravity Contract Address
+```
+0x211a66a9EA157Beb57fED2755E408d0437EAaD47
 ```
