@@ -35,7 +35,7 @@
         "eth_signature": "+mIN0P3g16hmCxUixbVcnnM9Xmi1FA5SPvd+7BUgmtstEjHVXZHIKJ87gyWrYKijXdirx3OuHyyWiCdIAiQ09Bs="
       }
     ],
-    "memo": "fd7028c7c79006ce40c43eee56cbca35e0b39021@38.88.175.220:26656",
+    "memo": "c94fd60124e3656df54ff965d178e36c760c195d@65.108.57.224:26656",
     "timeout_height": "0",
     "extension_options": [],
     "non_critical_extension_options": []
@@ -63,6 +63,6 @@
     }
   },
   "signatures": [
-    "z3GkY1ynn2aNpZp5lrHZBAhDYtogXJSEY65OgTHDIlYLZa0fWFlSSl31VKUAMW3ZEgI672R4SUAjqk7EBr2fJw=="
+    "oQmOlLfermFMeOrWbtyxX7GycAQSJjNBTLaWvlhHgZZvhswIB8W+UTJJluHFrT3SkyO7h1j/3K8WswH9lkSGFw=="
   ]
 }
