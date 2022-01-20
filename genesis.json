@@ -42564,7 +42564,7 @@
       "upgrade": {},
       "vesting": {}
   },
-  "chain_id": "sommelier-2",
+  "chain_id": "sommelier-3",
   "consensus_params": {
       "block": {
           "max_bytes": "2000000",
