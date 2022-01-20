@@ -1,6 +1,13 @@
 {
   "app_hash": "",
   "app_state": {
+    "allocation": {
+      "params": {
+        "vote_period": "5",
+        "vote_threshold": "0.670000000000000000"
+        },
+        "cellars": []
+      },
       "auth": {
           "accounts": [
               {
