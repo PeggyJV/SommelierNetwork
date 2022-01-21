@@ -9833,67 +9833,67 @@
           "confirmations": [],
           "delegate_keys": [
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x091EA016C80e0D7f761Fc7Cb9Aeb171169c0dc79",
                   "orchestrator_address": "somm10qfl0f55vruhcuqwnqg00uykkdpnl4g3fzx2m7",
                   "validator_address": "sommvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qeh9gwf"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x09E8E999459728b20be51e8be9Eda6Ac04cB93EE",
                   "orchestrator_address": "somm1tznv6agw8pdzv34ykdpau243kdwyvf9lz4dedh",
                   "validator_address": "sommvaloper1ju7p97r3atsqlpruy3a9dr25ltdc7qcjr6z6ff"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x133C776f4321A94Da266aD5fb52f4D45224E033e",
                   "orchestrator_address": "somm1p7tskps8hya4ldeu8qfghxwq72g5fzp6aekap7",
                   "validator_address": "sommvaloper1nm3xrar9j7dw6e9ua77ernarpc3axxr77alscy"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x21c1E236688fC78580371cAe42e0E22Fc9A9696F",
                   "orchestrator_address": "somm1s2q8avjykkztudpl8k60f0ns4v5mvnjp5t366c",
                   "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x5299d547188B9351aD7e479E1eb2343e45578072",
                   "orchestrator_address": "somm15h8ls6mwt8k709wc8f48ycxa80vcu690j6rnwy",
                   "validator_address": "sommvaloper15055v5dh2hsn6fmy6ucday3pwn8m6gcmfz3kqr"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0x87e454966552f7E5c675b7Ec5FDB3489b81c6c51",
                   "orchestrator_address": "somm1p7vn9hajt44fxwn4ecfxjs2r469l0tgmjlqzmp",
                   "validator_address": "sommvaloper1cgdlryczzgrk7d4kkeawqg7t6ldz4x84yu305c"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0xA61Ef7cF3d9A28a5a6f1ef4CFFC3d53792461ABd",
                   "orchestrator_address": "somm1kfzuvra3ym8nxffwdlyj0xvkky87qc0ywh9d42",
                   "validator_address": "sommvaloper1thl5syhmscgnj7whdyrydw3w6vy80044ty5hup"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0xb369b35BCf48257f5cc0AD688350dAe80bbc994A",
                   "orchestrator_address": "somm19ts4umurauutumqdcu5n8x73fn9dfwwshhf8a4",
                   "validator_address": "sommvaloper15urq2dtp9qce4fyc85m6upwm9xul30499el64g"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0xe3d6759e7eb80D2a62B0dc48A85c9b13b42d63e4",
                   "orchestrator_address": "somm1tmrfcg9rx4t53tzq28uc3e9j6zjcn20gcjl30m",
                   "validator_address": "sommvaloper173r06t4pck46ynhpvt0p28us8puxn9c9jzg45p"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0xeBbb780845F68920a805f1D69aB4Af7d0eFC7DF5",
                   "orchestrator_address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
                   "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
               },
               {
-                  "eth_signature": null,
+                  "eth_signature": "dW51c2Vk",
                   "ethereum_address": "0xfbA500406FcE5e9C6bf394D2701DcFC3845D4B6d",
                   "orchestrator_address": "somm1r0a9my57l85ycyy8wercpmpdaxv345n75aldnm",
                   "validator_address": "sommvaloper1ejqsr74xw6syh9nmukmqqtnnup4znwjmrkdmm0"
