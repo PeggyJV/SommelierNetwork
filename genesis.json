@@ -42653,7 +42653,7 @@
           "power": "14645419",
           "pub_key": {
             "type": "tendermint/PubKeyEd25519",
-            "key": "WY5nyJziw3or0nlAeNpuevW/p31jh7+RHt8dOnjsGEo="
+            "value": "WY5nyJziw3or0nlAeNpuevW/p31jh7+RHt8dOnjsGEo="
         }
       }
   ]
