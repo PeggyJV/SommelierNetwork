@@ -8375,7 +8375,7 @@
                       "previous_period": "2",
                       "stake": "525000000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm167twacmq4t2q0qmp42sx4uhgv9f0kemc7sxs4f",
@@ -8384,7 +8384,7 @@
                       "previous_period": "4",
                       "stake": "166666666666.000000000000000000"
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm173xq5ys8m7pvs2hesuz4ccx9mjuz2pthr7plwa",
@@ -8393,7 +8393,7 @@
                       "previous_period": "1",
                       "stake": "1000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm1l2scvs2wve6lfz2ujgvrlkrsnw6g68dx6y0ykw",
@@ -8402,7 +8402,7 @@
                       "previous_period": "3",
                       "stake": "3750000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm1x47p0tjylnsmxyy33q4mhqtxhzwk50099t7cp2",
@@ -8411,7 +8411,7 @@
                       "previous_period": "8",
                       "stake": "13500000000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1fcl08ymkl70dhyg3vmx4hjsqvxym7dawnp0zfp",
@@ -8420,7 +8420,7 @@
                       "previous_period": "12",
                       "stake": "450000000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1n29qfg6wegxqnn92upjj0ulwlqfjj4yqjydd0d",
@@ -8429,7 +8429,7 @@
                       "previous_period": "6",
                       "stake": "1500500.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1kv98xapa28s05x5exhupg3gzlfmkwfl32ye45r",
@@ -8438,7 +8438,7 @@
                       "previous_period": "2",
                       "stake": "525000000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm167twacmq4t2q0qmp42sx4uhgv9f0kemc7sxs4f",
@@ -8447,7 +8447,7 @@
                       "previous_period": "7",
                       "stake": "166666666666.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1l2scvs2wve6lfz2ujgvrlkrsnw6g68dx6y0ykw",
@@ -8456,7 +8456,7 @@
                       "previous_period": "3",
                       "stake": "3750000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1lexs4myxfp7k6n685qp6tw6mddkr2wetmnrxdw",
@@ -8465,7 +8465,7 @@
                       "previous_period": "1",
                       "stake": "1000000.000000000000000000"
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "delegator_withdraw_infos": [],
@@ -8565,7 +8565,7 @@
                           "denom": "usomm"
                       }
                   ],
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "outstanding_rewards": [
@@ -8574,7 +8574,7 @@
                           "denom": "usomm"
                       }
                   ],
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "params": {
@@ -8694,7 +8694,7 @@
                           }
                       ]
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "accumulated": {
@@ -8705,7 +8705,7 @@
                           }
                       ]
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "validator_current_rewards": [
@@ -8809,7 +8809,7 @@
                           }
                       ]
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "rewards": {
@@ -8821,7 +8821,7 @@
                           }
                       ]
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "validator_historical_rewards": [
@@ -9280,7 +9280,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "2",
@@ -9288,7 +9288,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "3",
@@ -9296,7 +9296,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "4",
@@ -9304,7 +9304,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "5",
@@ -9317,7 +9317,7 @@
                       ],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "6",
@@ -9330,7 +9330,7 @@
                       ],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "7",
@@ -9343,7 +9343,7 @@
                       ],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "8",
@@ -9356,7 +9356,7 @@
                       ],
                       "reference_count": 2
                   },
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "period": "1",
@@ -9364,7 +9364,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "2",
@@ -9372,7 +9372,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "3",
@@ -9380,7 +9380,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "6",
@@ -9388,7 +9388,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "7",
@@ -9396,7 +9396,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "8",
@@ -9404,7 +9404,7 @@
                       "cumulative_reward_ratio": [],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "12",
@@ -9417,7 +9417,7 @@
                       ],
                       "reference_count": 1
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "period": "13",
@@ -9430,7 +9430,7 @@
                       ],
                       "reference_count": 2
                   },
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "validator_slash_events": [
@@ -9581,7 +9581,7 @@
               {
                   "height": "1877112",
                   "period": "5",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "validator_slash_event": {
                       "fraction": "0.000000000000000000",
                       "validator_period": "5"
@@ -9590,7 +9590,7 @@
               {
                   "height": "1907114",
                   "period": "6",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "validator_slash_event": {
                       "fraction": "0.000000000000000000",
                       "validator_period": "6"
@@ -9599,7 +9599,7 @@
               {
                   "height": "1923772",
                   "period": "7",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "validator_slash_event": {
                       "fraction": "0.000000000000000000",
                       "validator_period": "7"
@@ -9608,7 +9608,7 @@
               {
                   "height": "1927407",
                   "period": "8",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "validator_slash_event": {
                       "fraction": "0.000000000000000000",
                       "validator_period": "8"
@@ -9617,7 +9617,7 @@
               {
                   "height": "1877112",
                   "period": "13",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p",
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye",
                   "validator_slash_event": {
                       "fraction": "0.000000000000000000",
                       "validator_period": "13"
@@ -9852,9 +9852,9 @@
               },
               {
                   "eth_signature": "dW51c2Vk",
-                  "ethereum_address": "0x21c1E236688fC78580371cAe42e0E22Fc9A9696F",
-                  "orchestrator_address": "somm1s2q8avjykkztudpl8k60f0ns4v5mvnjp5t366c",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "ethereum_address": "0x461eda4f26746466c7bD3393721d5bbA833283fd",
+                  "orchestrator_address": "somm179ctq2nzkgvscnxqpngkhau9fwyctmmncjnyzj",
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "eth_signature": "dW51c2Vk",
@@ -9888,9 +9888,9 @@
               },
               {
                   "eth_signature": "dW51c2Vk",
-                  "ethereum_address": "0xeBbb780845F68920a805f1D69aB4Af7d0eFC7DF5",
-                  "orchestrator_address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "ethereum_address": "0x5e7fB6eb88d19771C1f422BE8E5c4D7D70002f09",
+                  "orchestrator_address": "somm1uw4n0rz7vz0va5x7t3dmkm9pae5kxetaxeykwd",
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "eth_signature": "dW51c2Vk",
@@ -41965,7 +41965,7 @@
               {
                   "delegator_address": "somm1x47p0tjylnsmxyy33q4mhqtxhzwk50099t7cp2",
                   "shares": "13500000000000.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1849m9wncrqp6v4tkss6a3j8uzvuv0cp7zy8q3h",
@@ -41980,7 +41980,7 @@
               {
                   "delegator_address": "somm1fcl08ymkl70dhyg3vmx4hjsqvxym7dawnp0zfp",
                   "shares": "450000000000.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1thl5syhmscgnj7whdyrydw3w6vy800447662mw",
@@ -42010,7 +42010,7 @@
               {
                   "delegator_address": "somm1n29qfg6wegxqnn92upjj0ulwlqfjj4yqjydd0d",
                   "shares": "1500500.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1nm3xrar9j7dw6e9ua77ernarpc3axxr7tr3dlt",
@@ -42055,12 +42055,12 @@
               {
                   "delegator_address": "somm1kv98xapa28s05x5exhupg3gzlfmkwfl32ye45r",
                   "shares": "525000000000.000000000000000000",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm1kv98xapa28s05x5exhupg3gzlfmkwfl32ye45r",
                   "shares": "525000000000.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1cgdlryczzgrk7d4kkeawqg7t6ldz4x843zljnh",
@@ -42095,12 +42095,12 @@
               {
                   "delegator_address": "somm167twacmq4t2q0qmp42sx4uhgv9f0kemc7sxs4f",
                   "shares": "166666666666.000000000000000000",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm167twacmq4t2q0qmp42sx4uhgv9f0kemc7sxs4f",
                   "shares": "166666666666.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm173r06t4pck46ynhpvt0p28us8puxn9c98uxgnw",
@@ -42110,7 +42110,7 @@
               {
                   "delegator_address": "somm173xq5ys8m7pvs2hesuz4ccx9mjuz2pthr7plwa",
                   "shares": "1000000.000000000000000000",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm17kevdey6athxarxu0m9rev6quv0cgu4r6dftmg",
@@ -42155,17 +42155,17 @@
               {
                   "delegator_address": "somm1l2scvs2wve6lfz2ujgvrlkrsnw6g68dx6y0ykw",
                   "shares": "3750000000.000000000000000000",
-                  "validator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj"
+                  "validator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps"
               },
               {
                   "delegator_address": "somm1l2scvs2wve6lfz2ujgvrlkrsnw6g68dx6y0ykw",
                   "shares": "3750000000.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               },
               {
                   "delegator_address": "somm1lexs4myxfp7k6n685qp6tw6mddkr2wetmnrxdw",
                   "shares": "1000000.000000000000000000",
-                  "validator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p"
+                  "validator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye"
               }
           ],
           "exported": true,
@@ -42192,11 +42192,11 @@
                   "power": "695417"
               },
               {
-                  "address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "power": "695417"
               },
               {
-                  "address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p",
+                  "address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye",
                   "power": "14645419"
               }
           ],
@@ -42511,7 +42511,7 @@
                   },
                   "consensus_pubkey": {
                       "@type": "/cosmos.crypto.ed25519.PubKey",
-                      "key": "0VDQdAz3shLaaP9U2g1B44AOFZL/rGE+OsJuzI8Vf6s="
+                      "key": "ONAdAweCWlMX12F6MiHS4PARdOLrYaCdLk0kJ2NsIAE="
                   },
                   "delegator_shares": "695417666666.000000000000000000",
                   "description": {
@@ -42523,7 +42523,7 @@
                   },
                   "jailed": false,
                   "min_self_delegation": "1",
-                  "operator_address": "sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
+                  "operator_address": "sommvaloper1gcc6a6wcs2ayj8049c6laxnyj30jyx55w7lyps",
                   "status": "BOND_STATUS_BONDED",
                   "tokens": "695417666666",
                   "unbonding_height": "1927408",
@@ -42539,9 +42539,9 @@
                       "update_time": "2021-09-13T15:00:00Z"
                   },
                   "consensus_pubkey": {
-                      "@type": "/cosmos.crypto.ed25519.PubKey",
-                      "key": "nLt0JA2eOg9FEgsEUxZwEQ/QEDZuJcXD1/hvhLva1Vs="
-                  },
+                    "@type": "/cosmos.crypto.ed25519.PubKey",
+                    "key": "WY5nyJziw3or0nlAeNpuevW/p31jh7+RHt8dOnjsGEo="
+                },
                   "delegator_shares": "14645419167166.000000000000000000",
                   "description": {
                       "details": "",
@@ -42552,7 +42552,7 @@
                   },
                   "jailed": false,
                   "min_self_delegation": "1",
-                  "operator_address": "sommvaloper1lexs4myxfp7k6n685qp6tw6mddkr2wetwddm2p",
+                  "operator_address": "sommvaloper1qh20fshk5amv4e9cw7gc90f2r7nwkxllgztuye",
                   "status": "BOND_STATUS_BONDED",
                   "tokens": "14645419167166",
                   "unbonding_height": "1877113",
@@ -42644,7 +42644,7 @@
           "power": "695417",
           "pub_key": {
               "type": "tendermint/PubKeyEd25519",
-              "value": "0VDQdAz3shLaaP9U2g1B44AOFZL/rGE+OsJuzI8Vf6s="
+              "value": "ONAdAweCWlMX12F6MiHS4PARdOLrYaCdLk0kJ2NsIAE="
           }
       },
       {
@@ -42652,9 +42652,10 @@
           "name": "Figment",
           "power": "14645419",
           "pub_key": {
-              "type": "tendermint/PubKeyEd25519",
-              "value": "nLt0JA2eOg9FEgsEUxZwEQ/QEDZuJcXD1/hvhLva1Vs="
-          }
+            "type": "tendermint/PubKeyEd25519",
+            "key": "WY5nyJziw3or0nlAeNpuevW/p31jh7+RHt8dOnjsGEo="
+        }
       }
   ]
 }
+
