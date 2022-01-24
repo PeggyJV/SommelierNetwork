@@ -9910,7 +9910,7 @@
               "bridge_ethereum_address": "0x0000000000000000000000000000000000000000",
               "contract_source_hash": "",
               "ethereum_signatures_window": "30000",
-              "gravity_id": "sommelier",
+              "gravity_id": "sommelier-3",
               "signed_batches_window": "30000",
               "signed_signer_set_txs_window": "30000",
               "slash_fraction_batch": "0.000000000000000000",
