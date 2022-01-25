@@ -1,8 +1,8 @@
 # SommelierNetwork
 
 ```bash
-$ shasum -a 256 genesis.json 
-5fbb19cfc99068b82ad4179b6debee5e61565750cb00f90bd6095f19c5071d89  genesis.json
+$ shasum -a 256 genesis.json
+68e918e6ee379ec86f6907e8a75ce7958f2c7e7a6addc635dd048f65b6c6c8a8  genesis.json
 ```
 
 [Peers for Sommelier Mainnet](https://docs.google.com/spreadsheets/d/13LzGA2-0sgXQxdGPknCYDyUsjbBtMoY4VeLKxHNZzW8/edit#gid=0)
