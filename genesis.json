@@ -4222,7 +4222,7 @@
               {
                   "@type": "/cosmos.auth.v1beta1.BaseAccount",
                   "account_number": "37",
-                  "address": "somm1s2q8avjykkztudpl8k60f0ns4v5mvnjp5t366c",
+                  "address": "somm179ctq2nzkgvscnxqpngkhau9fwyctmmncjnyzj",
                   "pub_key": {
                       "@type": "/cosmos.crypto.secp256k1.PubKey",
                       "key": "AvHAF+sfS6MoXe88hLDcnq3ddhv3P9uCFOGfFHdPda34"
@@ -4738,7 +4738,7 @@
                   "base_vesting_account": {
                       "base_account": {
                           "account_number": "27",
-                          "address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
+                          "address": "somm1uw4n0rz7vz0va5x7t3dmkm9pae5kxetaxeykwd",
                           "pub_key": {
                               "@type": "/cosmos.crypto.secp256k1.PubKey",
                               "key": "A+yfY7+dMFMx4p4DeMgIEvmcQM++VdVf83JVoBcYDlY3"
@@ -7804,7 +7804,7 @@
                   ]
               },
               {
-                  "address": "somm1s2q8avjykkztudpl8k60f0ns4v5mvnjp5t366c",
+                  "address": "somm179ctq2nzkgvscnxqpngkhau9fwyctmmncjnyzj",
                   "coins": [
                       {
                           "amount": "993500",
@@ -7876,7 +7876,7 @@
                   ]
               },
               {
-                  "address": "somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
+                  "address": "somm1uw4n0rz7vz0va5x7t3dmkm9pae5kxetaxeykwd",
                   "coins": [
                       {
                           "amount": "1000000",
