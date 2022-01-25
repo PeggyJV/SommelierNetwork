@@ -4736,7 +4736,10 @@
                       "base_account": {
                           "account_number": "27",
                           "address": "somm1uw4n0rz7vz0va5x7t3dmkm9pae5kxetaxeykwd",
-                          "pub_key": null,
+                          "pub_key": {
+                              "@type": "/cosmos.crypto.secp256k1.PubKey",
+                              "key": "A6TT6V2E6yPiB5yMhIG2k/KKfubGFl12zaRHCw0fHj1a"
+                          },
                           "sequence": "26"
                       },
                       "delegated_free": [],
