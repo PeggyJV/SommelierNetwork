@@ -9,5 +9,5 @@ $ shasum -a 256 genesis.json
 
 ### Gravity Contract Address
 ```
-0x910889333FC2E2B39260e81Eb368a59e3EDB063B
+0x69592e6f9d21989a043646fe8225da2600e5a0f7
 ```
