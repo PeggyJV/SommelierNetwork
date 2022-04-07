@@ -11,3 +11,8 @@ $ shasum -a 256 genesis.json
 ```
 0x69592e6f9d21989a043646fe8225da2600e5a0f7
 ```
+
+### Somm token address on Ethereum
+```
+https://etherscan.io/token/0xa670d7237398238de01267472c6f13e5b8010fd1
+```
